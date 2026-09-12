@@ -1,0 +1,14 @@
+<?php
+class MovimientoStock
+{
+    public $idMovimiento;
+    public $tipo;
+    public $cantidad;
+
+    public function registrarMovimiento()
+    {
+        echo "Movimiento de stock registrado correctamente.";
+    }
+}
+
+?>
