@@ -1,8 +1,6 @@
 # Patrón Observer – Parqueo Torre Central
-
 ## Requerimiento
 Cuando una estadía lleva más de 24 horas, el dueño debe recibir un aviso.
-
 ## Patrón Observer
 Se utiliza porque una estadía puede avisar a los interesados cuando ocurre un cambio, en este caso cuando supera las 24 horas.
 ## Diagrama 
